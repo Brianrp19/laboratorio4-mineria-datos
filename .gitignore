@@ -1,0 +1,21 @@
+# Credenciales y configuración local
+.env
+.env.*
+credentials*.json
+service-account*.json
+*.pem
+*.key
+.vscode/
+.idea/
+.venv/
+venv/
+
+# Archivos temporales y cachés
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
