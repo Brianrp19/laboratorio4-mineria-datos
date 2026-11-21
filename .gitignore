@@ -9,6 +9,9 @@ service-account*.json
 .idea/
 .venv/
 venv/
+.venv-1/
+venv-1/
+
 
 # Archivos temporales y cachés
 __pycache__/
